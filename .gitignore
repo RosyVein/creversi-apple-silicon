@@ -266,3 +266,4 @@ __pycache__/
 /creversi/**/*.cpp
 /dist
 .vscode
+.DS_Store
